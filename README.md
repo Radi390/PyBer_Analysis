@@ -19,6 +19,6 @@
 
 ![This is an image](/analysis/Fig7.png)
 
-![This is an image](/analysis/PyBer_fare_summary.png)
+![This is an image](/analysis/PyBer_Fare_Summary.png)
 
 ## Summary
