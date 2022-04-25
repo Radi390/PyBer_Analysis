@@ -49,3 +49,5 @@ In this analysis, the Panda library is used for data manipulation, and the Matpl
 ![This is an image](/analysis/PyBer_Fare_Summary.png)
 
 ## Summary
+
+In conclusion, I should say Pyber has more than enough drivers in urban areas, and a reduction in their number could increase fares and, as a result, increase revenue. Also, the number of drivers in some suburban and rural cities is too low, and it causes expensive fares. By recruiting more drivers in that areas, prices will decrease, and more drives in those areas could generate more revenue.
